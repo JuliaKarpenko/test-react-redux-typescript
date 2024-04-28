@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/test-react-redux-typescript/static/css/main.c142a6b3.css",
+    "main.js": "/test-react-redux-typescript/static/js/main.328907d9.js",
+    "index.html": "/test-react-redux-typescript/index.html",
+    "main.c142a6b3.css.map": "/test-react-redux-typescript/static/css/main.c142a6b3.css.map",
+    "main.328907d9.js.map": "/test-react-redux-typescript/static/js/main.328907d9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c142a6b3.css",
+    "static/js/main.328907d9.js"
+  ]
+}
