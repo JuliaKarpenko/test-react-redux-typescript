@@ -1,0 +1,32 @@
+.container {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	width: 100%;
+}
+
+.checkbox {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.button {
+	border: none;
+	margin: 0 8px;
+	cursor: pointer;
+	background-color: transparent;
+}
+
+.completedIcon {
+	color: #13bb1e;
+}
+
+.inCompletedIcon {
+	color: #131bbb;
+}
+
+.deleteIcon {
+	color: red;
+	font-size: 18px;
+}
