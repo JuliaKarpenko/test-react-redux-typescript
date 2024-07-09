@@ -1,3 +1,19 @@
+# TO DO LIST
+
+## Description.
+This project implements the Task List application using React, react-router-dom, Redux, and TypeScript. The application contains two tabs: all tasks and completed tasks. Users can mark tasks as completed or uncompleted, as well as delete tasks.
+
+## Functional requirements
+- Two tabs: all tasks and completed tasks.
+- Ability to mark tasks as completed or uncompleted.
+- Ability to delete tasks.
+
+## Technologies used
+- React
+- React-router
+- Redux
+- TypeScript
+
 [![DEMO](https://img.shields.io/badge/live%20demo-0073cf?style=for-the-badge&logoColor=white)](https://juliakarpenko.github.io/test-react-redux-typescript)
 
 ![Demo](https://github.com/JuliaKarpenko/test-react-redux-typescript/blob/main/demo-ezgif.com-video-to-gif-converter.gif)
